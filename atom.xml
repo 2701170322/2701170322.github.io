@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-17T07:41:39.435Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[404]</title>
+    <link href="http://yoursite.com/2019/09/17/404/"/>
+    <id>http://yoursite.com/2019/09/17/404/</id>
+    <published>2019-09-17T07:40:31.397Z</published>
+    <updated>2019-09-17T07:41:39.435Z</updated>
+    
+    <summary type="html">
+    
+      May the Force be with you :&amp;#41;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>康康的个人博客</title>
+    <link href="http://yoursite.com/2019/09/17/%E5%BA%B7%E5%BA%B7%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/09/17/康康的个人博客/</id>
+    <published>2019-09-17T02:31:41.000Z</published>
+    <updated>2019-09-17T02:31:41.292Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>nihao</title>
+    <link href="http://yoursite.com/2019/09/16/nihao/"/>
+    <id>http://yoursite.com/2019/09/16/nihao/</id>
+    <published>2019-09-16T14:19:17.000Z</published>
+    <updated>2019-09-16T14:19:17.634Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好,hexo</title>
+    <link href="http://yoursite.com/2019/09/16/%E4%BD%A0%E5%A5%BD-hexo/"/>
+    <id>http://yoursite.com/2019/09/16/你好-hexo/</id>
+    <published>2019-09-16T13:31:36.000Z</published>
+    <updated>2019-09-16T13:31:36.151Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一个人一生能遇到2920万人,两个人相遇的概率是0.0000049,所以你不爱我,没关系</title>
+    <link href="http://yoursite.com/2019/09/16/%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%80%E7%94%9F%E8%83%BD%E9%81%87%E5%88%B02920%E4%B8%87%E4%BA%BA-%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9B%B8%E9%81%87%E7%9A%84%E6%A6%82%E7%8E%87%E6%98%AF0-0000049-%E6%89%80%E4%BB%A5%E4%BD%A0%E4%B8%8D%E7%88%B1%E6%88%91-%E6%B2%A1%E5%85%B3%E7%B3%BB/"/>
+    <id>http://yoursite.com/2019/09/16/一个人一生能遇到2920万人-两个人相遇的概率是0-0000049-所以你不爱我-没关系/</id>
+    <published>2019-09-16T13:17:02.000Z</published>
+    <updated>2019-09-16T13:17:02.855Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/16/hello-world/"/>
+    <id>http://yoursite.com/2019/09/16/hello-world/</id>
+    <published>2019-09-16T12:59:06.432Z</published>
+    <updated>2019-09-16T12:59:06.432Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
